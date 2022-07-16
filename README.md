@@ -1,5 +1,4 @@
-# Stock_Analysis
-![This is an image](https://www.doughroller.net/wp-content/uploads/2018/05/Golden-rules-for-choosing-the-best-stock-648x364-c-default.jpg)[^1]
+# Stock_Analysis <p align="center"><img width="580" height="300" src="images/pick_best_stock.jpg"></p>
 
 ## Purpose
 **PICK THE BEST STOCKS** ~ To do that I took the 2017 and 2018 daily open and close prices from 12 different stocks and found their overall return percentage per year.  Then, I formatted the results so the positive stocks stood out in [go] green and the failing stocks in [negative] red. Lastly, I refactored the macro to be capable of performing this analysis on the entire stock market. 
@@ -25,5 +24,4 @@ The time it took to refactor this code (about an hour) will pay for itself in ti
 2. Utilize Git Bash to save versions of edits without the risk of overwriting edits you many need to reference back to
 3. Utilize VS Code to make drafting sections of code easier to read and write 
 
-[^1]: DoughRoller. "5 Golden Rules for Choosing the Best Stock". Accessed Dec. 3, 2021](https://www.doughroller.net/investing/5-golden-rules-for-choosing-the-best-stock/)
-[^2]: [Investopedia. "Stock Exchanges Around the World". Accessed Dec. 3, 2021](https://www.investopedia.com/financial-edge/1212/stock-exchanges-around-the-world.aspx)
+[^1]: [Investopedia. "Stock Exchanges Around the World". Accessed Dec. 3, 2021](https://www.investopedia.com/financial-edge/1212/stock-exchanges-around-the-world.aspx)
